@@ -5,7 +5,7 @@
 这是一个纯静态的自我介绍站点，没有框架、没有构建步骤——只有 `index.html` 和 `style.css`。
 托管于 **GitHub Pages**，打开即看。
 
-在线访问：**https://563834862.github.io/**
+在线访问：**https://563834862.github.io/workbuddy-intro/**
 
 ---
 
